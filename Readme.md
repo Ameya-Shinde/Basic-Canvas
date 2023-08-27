@@ -8,8 +8,9 @@ Create a simple Canvas.
 
 # Description
 - Ths is a simple canvas to doodle on.
-- It has undo functionality to remove your very last move.
-- You can also delete the whole canvas and start fresh.
+- Undo functionality to remove your very last move.
+- Can delete the whole canvas and start fresh.
+- A color bar to change the color of your strokes.
 - Have fun doodling.
 
 # JS Functionality used : 
