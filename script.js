@@ -66,6 +66,3 @@ function undo() {
     objects.pop();
     redrawCanvas();
 }
-
-
-
