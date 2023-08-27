@@ -6,6 +6,12 @@
 # Task 
 Create a simple Canvas.
 
+# Description
+- Ths is a simple canvas to doodle on.
+- It has undo functionality to remove your very last move.
+- You can also delete the whole canvas and start fresh.
+- Have fun doodling.
+
 # JS Functionality used : 
 - document.getElementById to get the button elements.
 - addEventListener to set the event on buttons.
