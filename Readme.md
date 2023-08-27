@@ -17,3 +17,6 @@ Create a simple Canvas.
 
 # Hosted Link
 https://ameya-shinde.github.io/Basic-Canvas/
+
+# Screenshot
+![Screenshot 2023-08-27 154651](https://github.com/Ameya-Shinde/Basic-Canvas/assets/93002372/cc94a00a-f7bb-4756-a047-e455100057cb)
